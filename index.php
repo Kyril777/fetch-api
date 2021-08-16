@@ -9,12 +9,12 @@
 	<body>
 		<form id="addPost">
 			<div class="form-group">
-				<input type="text" id="title" class="form-control" placeholder="Title">
+				<input type="text" id="title" class="form-control" placeholder="Title" />
 			</div>
 			<div class="form-group">
 				<textarea id="body" class="form-control" placeholder="Body"></textarea>
 			</div>
-			<input type="submit" class="btn btn-secondary" value="Submit">
+			<input type="submit" class="btn btn-secondary" value="Submit" />
 		</form>
 
 		<script>
