@@ -5,13 +5,13 @@
 		"email":"rick@gmail.com"
 	},
 	{
-		"id":1,
-		"name":"Rick",
-		"email":"rick@gmail.com"
+		"id":2,
+		"name":"Stan",
+		"email":"stan@gmail.com"
 	},
 	{
-		"id":1,
-		"name":"Rick",
-		"email":"rick@gmail.com"
+		"id":3,
+		"name":"Lee",
+		"email":"lee@gmail.com"
 	}
 ]
